@@ -32,3 +32,16 @@
   justify-content: center;
   justify-self: center;
 }
+
+.Sosial {
+  display: flex;
+  justify-content: center;
+  justify-self: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  gap: 10px;
+}
+
+.activity {
+  margin-top: 20px;
+}
